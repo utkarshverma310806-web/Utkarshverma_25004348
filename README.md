@@ -14,4 +14,4 @@ Welcome to the Tour Planner Website — your one-stop destination for exploring 
 - 💬 Inline comments for clarity and maintainability
 
 
-Let me know if you’d like to add badges, contributor credits, or deployment instructions!
+
